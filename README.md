@@ -1,6 +1,6 @@
 # APA
 
-LED lighting parts by APA Electronic co. LTD (inofficial).
+LED lighting parts by APA Electronic co. LTD (unofficial).
 
 ## License
 
