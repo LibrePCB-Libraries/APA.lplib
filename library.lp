@@ -1,6 +1,6 @@
 (librepcb_library 7fee2fbe-ec33-4434-afbc-12c183a7ef45
  (name "APA")
- (description "LED lighting (inofficial).")
+ (description "LED lighting (unofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.1")
